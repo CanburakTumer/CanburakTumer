@@ -8,7 +8,7 @@ I am
 - currently working on a Static Website Generator that is very simple and easy to use.  
 - On the other hand, I also would like to create a data product deployment framework, under the organization name of Active Data.
 
-With your sponsorship, I can
+With your [sponsorship](https://github.com/sponsors/CanburakTumer), I can
 - pay for the domains I bought for the projects
 - get motivated 
 
