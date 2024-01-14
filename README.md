@@ -1,16 +1,15 @@
-### Hi there 👋
+## I am Canburak
 
-<!--
-**CanburakTumer/CanburakTumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By trade I am a Data Engineer, by study I am a Computer Engineer living in Berlin, Germany since 2019.  Since 2011 I am working as a Data Professional. On the side developing applications and scripts.
 
-Here are some ideas to get you started:
+### Things I want to create in open-source world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am 
+- currently working on a Static Website Generator that is very simple and easy to use.  
+- On the other hand, I also would like to create a data product deployment framework, under the organization name of Active Data.
+
+With your sponsorship, I can
+- pay for the domains I bought for the projects
+- get motivated 
+
+Thanks for reading!
